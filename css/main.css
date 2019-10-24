@@ -92,6 +92,9 @@ header{
   top: -30px;
   left: 70px;
 }
+#logo{
+  width: 30px;;
+}
 .pd-section{
   padding: 5% 0;
 }
