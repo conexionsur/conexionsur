@@ -88,7 +88,7 @@ header{
 .b-photo{
   margin-top: 2%;
   position: relative;
-  z-index: 4;
+  z-index: 999;
 }
 #img-header::before{
   content: "";
